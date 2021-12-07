@@ -1,5 +1,7 @@
 # Deployment Model Regresi Linier
 
+![Thumbnail](https://github.com/algonacci/linreg-insurance/blob/main/linreg.jpg?raw=true)
+
 ## Deskripsi singkat
 
 Repository ini berisi semua file yang dibutuhkan untuk melakukan deployment model Machine Learning Regresi Linier. Adapun model yang digunakan merupakan model untuk memprediksi biaya asuransi berdasarkan:
